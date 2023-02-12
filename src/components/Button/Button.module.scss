@@ -1,0 +1,33 @@
+.button {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.8);
+  border: none;
+  display: flex;
+  width: 100px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.settings {
+  width: auto;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 1.4rem;
+  line-height: 36px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.back {
+  outline: none;
+  border: none;
+  color: white;
+  gap: 10px;
+  margin: inherit;
+}
